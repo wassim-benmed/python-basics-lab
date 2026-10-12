@@ -1,0 +1,6 @@
+print(True + False)
+print(True or False)
+print(5 // 2)
+print(5 % 2)
+print(3 ** 2)
+print(5 + 1.6)
